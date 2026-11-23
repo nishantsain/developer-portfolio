@@ -1,6 +1,3 @@
-
-# Coding Platform Progress Tracker
-
 ## Updated: 23 November 2026
 
 ### HackerRank
